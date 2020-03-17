@@ -1,0 +1,147 @@
+
+
+/*body {
+	font-family: arial, sans-serif;
+	margin: 0;
+}
+
+input#search-text {
+	width: 100%;
+	box-sizing: border-box;
+   	background-color: white;
+	padding-left: 40px;
+	border-radius: 25px;
+	height: 40px;
+	background-image: url('searchicon.png');
+	background-size: 15px;
+	background-position: 15px 12px;
+	background-repeat: no-repeat;
+	border: 1px solid #dfe1e5;
+}
+
+input:hover {
+	box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: white;
+}
+
+li {
+	display: inline;
+	padding-left: 10px;
+	padding-right: 10px;
+	float: left;
+}
+
+li a {
+	display: block;
+	color: rgba(0,0,0,0.87);
+	text-align: center;			
+	text-decoration: none;
+}
+
+li a:hover {
+	text-decoration: underline;
+}
+
+.header {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	padding-top: 24px;
+	font-size: 12px;
+	padding-left: 20px;	
+}
+
+.header-right {
+	float: right;
+	padding-right: 30px;
+}
+
+.content{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 23px;
+	margin-top: 180px;
+	text-align: center;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0;
+	padding-top: 12px;	
+	padding-bottom: 11px;	
+	width: 100%;
+	border: 1px solid #e4e4e4;
+ 	background-color: #f2f2f2;
+ 	font-size: 14px;
+	padding-left: 20px;	
+}
+
+.footer a {
+	color: #5f6368;
+}
+
+.footer-right {
+	float: right;
+	padding-right: 30px;
+}
+
+.searchbar {
+   	width: 584px;
+   	margin-left: auto;
+   	margin-right: auto;
+}
+
+.submit-button {
+	display: inline;
+}
+
+.submit {
+	text-align: center;
+	margin-top: 25px;
+}
+
+#Google-search, #feeling-lucky {
+	font-family: arial;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #f4f4f4;
+	color: #5f6368;
+	border: none;
+	margin: 5px; 
+}
+
+#Google-search:hover, #feeling-lucky:hover {
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.3);
+}
+
+img#apps {
+	height: auto;
+	width: 28px;
+    position: relative;
+    bottom: 8px;
+}
+
+#apps:hover {
+	filter: brightness(5%);
+}
+
+#sign-in {
+	position: relative;
+	bottom: 8px;
+	font-weight: bold;
+	background-color: #4583eb;
+	padding: 8px 14px;
+	border-radius: 2px;
+}
+
+#sign-in a {
+	color: white;
+}*/
